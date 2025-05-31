@@ -1,0 +1,9 @@
+[submodule "rt-coffee-service"]
+	path = rt-coffee-service
+	url = git@github.com:re-trade/rt-coffee-service.git
+[submodule "rt-client"]
+	path = rt-client
+	url = git@github.com:re-trade/rt-client.git
+[submodule "rt-node-service"]
+	path = rt-node-service
+	url = git@github.com:re-trade/rt-node-service.git
