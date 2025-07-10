@@ -7,3 +7,9 @@
 [submodule "rt-node-service"]
 	path = rt-node-service
 	url = git@github.com:re-trade/rt-node-service.git
+[submodule "rt-agent"]
+	path = rt-agent
+	url = git@github.com:re-trade/rt-agent.git
+[submodule "rt-doc"]
+	path = rt-doc
+	url = git@github.com:re-trade/rt-doc.git
